@@ -1,18 +1,16 @@
-
-
 # Project Name E-Commerce-Back-End
 
 # Project URL
 
-https://github.com/TessyJ/Employee-tracker
+https://github.com/TessyJ/E-Commerce-Back-End
 
 # Project Repository
 
-https://tessyj.github.io/Employee-tracker/
+https://tessyj.github.io/E-Commerce-Back-End/
 
 # Walkthrough Video
 
-https://drive.google.com/file/d/1HwNvK9vKSM2A9P-Wiwf59E8vJAQ0502l/view
+https://drive.google.com/file/d/1Slini-JfGedsQjScHmXP-yM_BfLXlPx5/view
 
 # Project Description
 
